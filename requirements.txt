@@ -2,3 +2,5 @@ pandas
 ktrain
 streamlit
 requests
+transformers
+tensorflow
