@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit.logger import get_logger
-import tensorflow
+import tensorflow as tf
 import transformers
 import ktrain 
 from ktrain import text
