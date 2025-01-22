@@ -6,5 +6,6 @@ The prediction results consist of the class/label and its probability.
 
 The demo video can be watched here: https://drive.google.com/file/d/1i68jlsxg1T4yW_RrMNPO1T9a6winMgSO/view?usp=drive_link
 
-p.s.: I developed this after a long period of not working with text data.
-
+p.s.: 
+- I developed this after a long period of not working with text data.
+- It was supposed to be available on the web app (Streamlit), but it might be too resource-intensive, so it no longer works.
